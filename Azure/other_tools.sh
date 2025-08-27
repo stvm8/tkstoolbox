@@ -1,0 +1,9 @@
+git clone https://github.com/yuyudhn/AzSubEnum.git
+git clone https://github.com/dafthack/GraphRunner.git
+git clone https://github.com/dafthack/MFASweep.git
+git clone https://github.com/dafthack/MSOLSpray.git
+git clone https://github.com/0xZDH/o365spray.git
+git clone https://github.com/dievus/Oh365UserFinder.git
+git clone https://github.com/0xZDH/Omnispray.git
+git clone https://github.com/f-bader/TokenTacticsV2.git
+git clone https://github.com/NetSPI/ATEAM.git
