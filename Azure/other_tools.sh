@@ -7,3 +7,4 @@ git clone https://github.com/dievus/Oh365UserFinder.git
 git clone https://github.com/0xZDH/Omnispray.git
 git clone https://github.com/f-bader/TokenTacticsV2.git
 git clone https://github.com/NetSPI/ATEAM.git
+git clone https://github.com/Gerenios/AADInternals-Endpoints.git
